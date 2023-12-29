@@ -16,13 +16,14 @@
 
 <!-- About section -->
 
-🚀 I'm Himanshu Chaurasia, a Backend Software Engineer, passionate about API Development . Born in Uttar Pradesh, based in India
-
-💻 I explore cool, new tech and learn stuff by doing projects. Sometimes I [write](https://medium.com/@HimaCOD) about them too
+🚀 I'm Himanshu Chaurasia, a Backend Software Engineer, passionate about optimizing backend processes to enhance overall system functionality and user experience.
 
 💼 Associate Software Engineer with [Quara Digital](https://quaradigital.com/)
 
 📚 Recent Computer Science Graduate from [MJP Rohilkhand University](https://www.mjpru.ac.in/).
+
+💻 I explore cool, new tech and learn stuff by doing projects. Sometimes I [write](https://medium.com/@HimaCOD) about them too
+
 
 -------
 
