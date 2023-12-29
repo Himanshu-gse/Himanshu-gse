@@ -9,6 +9,10 @@
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="My Website"></a>
     <a href="https://medium.com/@HimaCOD"><img src="https://img.shields.io/badge/-@HimanCOD-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@HimaCOD/" alt="Medium Badge"></a>
     <a href="mailto:himanshuchaurasia2k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshuchaurasia2k@gmail.com" alt="Gmail Badge"></a>
+    <a href="https://www.chess.com/member/HimansChess">
+  <img src="https://img.shields.io/badge/-Chess.com-44B581?style=flat-square&logo=chess.com&logoColor=white" alt="Chess.com Badge">
+</a>
+
   
 </p>
 
