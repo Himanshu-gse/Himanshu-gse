@@ -1,20 +1,17 @@
 <!-- Header section -->
 
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi there, I'm Himanshu Chaurasia</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>Hi there, I'm Himanshu Chaurasia</h3>
 
 <!-- Badges + Links section -->
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/himanshu-chaurasia/"><img src="https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-chaurasia/" alt="Linkedin Badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/personal%20website-8A2BE2" alt="My Website"></a>
+    <a href="https://www.linkedin.com/in/himanshu-chaurasia/"><img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-chaurasia/" alt="Linkedin Badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="My Website"></a>
     <a href="https://medium.com/@HimaCOD"><img src="https://img.shields.io/badge/-@HimanCOD-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@HimaCOD/" alt="Medium Badge"></a>
-    <a href="https://github.com/OptimusHima/?tab=follow"><img src="https://img.shields.io/github/followers/Himanshu?label=Follow&style=social" alt="GitHub followers"></a>
-    <a href="mailto:himanshuchaurasia2k@gmail.com"><img src="https://img.shields.io/badge/-himanshuchaurasia2k@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshuchaurasia2k@gmail.com" alt="Gmail Badge"></a>
+    <a href="mailto:himanshuchaurasia2k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshuchaurasia2k@gmail.com" alt="Gmail Badge"></a>
   
 </p>
 
-
-<!-- About section -->
 
 🚀 I'm Himanshu Chaurasia, a Backend Software Engineer, passionate about optimizing backend processes to enhance overall system functionality and user experience.
 
