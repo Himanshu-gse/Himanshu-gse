@@ -41,8 +41,8 @@ contributing to a Real Estate Services platform using Node.js technology.
 <br>
 
 <p align="center">
-    <a href="https://github.com/OptimusHima/Ecommerce-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OptimusHima&repo=Ecommerce-Nodejs"></a>
-    <a href="https://github.com/OptimusHima/FoodHut"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OptimusHima&repo=FoodHut"></a>
+    <a href="https://github.com/Himanshu-gse/Ecommerce-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-gse&repo=Ecommerce-Nodejs"></a>
+    <a href="https://github.com/Himanshu-gse/FoodHut"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-gse&repo=FoodHut"></a>
 </p>
 
 -------
