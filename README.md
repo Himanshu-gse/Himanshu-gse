@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/himanshu-chaurasia/"><img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-chaurasia/" alt="Linkedin Badge"></a>
-    <a href="himanshuchaurasia.info"><img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="My Website"></a>
+    <a href="http://himanshuchaurasia.info/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="My Website"></a>
     <a href="https://medium.com/@HimaCOD"><img src="https://img.shields.io/badge/-@HimanCOD-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@HimaCOD/" alt="Medium Badge"></a>
     <a href="mailto:himanshuchaurasia2k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshuchaurasia2k@gmail.com" alt="Gmail Badge"></a>
     <a href="https://www.chess.com/member/HimansChess">
