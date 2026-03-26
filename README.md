@@ -19,7 +19,7 @@
 
 🚀 I'm Himanshu Chaurasia, a Backend Software Engineer, passionate about optimizing backend processes to enhance overall system functionality and user experience.
 
-💼 Associate Software Engineer with [Quara Digital](https://quaradigital.com/)
+💼 Software Engineer with [Fluper](https://www.fluper.com/)
 
 📚 Recent Computer Science Graduate from [MJP Rohilkhand University](https://www.mjpru.ac.in/).
 
